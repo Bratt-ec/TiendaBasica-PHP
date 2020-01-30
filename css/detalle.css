@@ -1,0 +1,95 @@
+  #contenedor{
+  min-height: 490px;
+  -webkit-border-radius: 10px 10px 10px 10px;
+  border-radius: 10px 10px 10px 10px;
+  width: 100%;
+  padding-bottom: 20px;
+  }
+
+
+
+  #foto_detalle{
+  background-color: gray;
+  height: 196px;
+  display: block;
+  margin: 10px 20px;
+  width:260px;
+  float: left;
+  }
+
+
+  #detalles{
+
+  height: 220px;
+  margin-right: 20px;
+  float: right;
+  display: block;
+  width:260px;
+
+
+  }
+
+  #detalles p{
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  line-height: 150%;
+  font-size: 14px;
+
+  }
+
+
+  #video{
+  display: block;
+  height: 320px;
+  margin:0 auto;
+  margin-top: 230px;
+  width: 420px;
+
+  }
+
+
+  #contenedor_car{
+
+  background-color: #F5F5F5;
+  min-height: 190px;
+  -webkit-border-radius: 10px 10px 10px 10px;
+  border-radius: 10px 10px 10px 10px;
+  width: 100%;
+  padding-bottom: 20px;
+
+  }
+
+  #prin_tabla{
+
+  margin: 0 auto;
+  width: 700px;
+
+  }
+
+  #tabla {
+  text-align: center;
+  padding-left: 20px;
+  display: block;
+  width:1300px;
+
+  }
+
+  #tabla th{
+
+  border-bottom:solid 1px gray;
+  padding-right: 50px;
+  text-align: left;
+
+
+  }
+
+  #tabla td{
+  border-bottom:solid 1px gray;
+
+  }
+
+  #tabla img{cursor:pointer;}
+
+  .input{
+  width:34px;
+  padding: 5px;
+  }
